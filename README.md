@@ -14,6 +14,9 @@ hnc2unicode.inc에는 특수문자 매핑을 일부 추가했습ㄴ다.
 
 HWP 5.0 버전의 Compound File은 [Apache-POI의 POIFS File System](http://poi.apache.org/poifs/fileformat.html)을 사용하여 처리합니다.
 
+## 추가사항
+ 해당 코드는 상기 텍스트 추출 제품을 스터디를 목적으로 마음대로 커스터마이징 한 것입니다.
+
 
 ## 사용방법
 
