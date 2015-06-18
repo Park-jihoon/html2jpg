@@ -21,18 +21,18 @@
  * https://github.com/cogniti/ruby-hwp/
  * https://github.com/cogniti/libghwp/
  */
-package com.argo.hwp;
+package com.ponin.hwp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.Writer;
 
+import com.ponin.hwp.v5.HwpTextExtractorV5;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.argo.hwp.v3.HwpTextExtractorV3;
-import com.argo.hwp.v5.HwpTextExtractorV5;
+import com.ponin.hwp.v3.HwpTextExtractorV3;
 
 public abstract class HwpTextExtractor {
 	protected static Logger log = LoggerFactory.getLogger(HwpTextExtractor.class);

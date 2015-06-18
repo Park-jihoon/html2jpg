@@ -1,7 +1,7 @@
-package com.argo.hwp.domain;
+package com.ponin.hwp.domain;
 
-import com.argo.hwp.utils.EtcUtil;
-import com.argo.hwp.utils.HwpStreamReader;
+import com.ponin.hwp.utils.EtcUtil;
+import com.ponin.hwp.utils.HwpStreamReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

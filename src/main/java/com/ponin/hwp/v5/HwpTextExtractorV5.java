@@ -21,7 +21,7 @@
  * https://github.com/cogniti/ruby-hwp/
  * https://github.com/cogniti/libghwp/
  */
-package com.argo.hwp.v5;
+package com.ponin.hwp.v5;
 
 import java.io.*;
 import java.text.SimpleDateFormat;
@@ -29,8 +29,8 @@ import java.util.*;
 import java.util.zip.Inflater;
 import java.util.zip.InflaterInputStream;
 
-import com.argo.hwp.application.ImageProcessing;
-import com.argo.hwp.domain.*;
+import com.ponin.hwp.application.ImageProcessing;
+import com.ponin.hwp.domain.*;
 import org.apache.poi.poifs.filesystem.DirectoryEntry;
 import org.apache.poi.poifs.filesystem.DirectoryNode;
 import org.apache.poi.poifs.filesystem.DocumentEntry;
@@ -42,7 +42,7 @@ import org.apache.poi.util.LittleEndian;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.argo.hwp.utils.HwpStreamReader;
+import com.ponin.hwp.utils.HwpStreamReader;
 
 public class HwpTextExtractorV5 {
 	protected static Logger log = LoggerFactory

@@ -1,6 +1,6 @@
-package com.argo.hwp.utils;
+package com.ponin.hwp.utils;
 
-import com.argo.hwp.domain.ImageBean;
+import com.ponin.hwp.domain.ImageBean;
 
 import java.util.Comparator;
 

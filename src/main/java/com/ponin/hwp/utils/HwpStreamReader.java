@@ -21,7 +21,7 @@
  * https://github.com/cogniti/ruby-hwp/
  * https://github.com/cogniti/libghwp/
  */
-package com.argo.hwp.utils;
+package com.ponin.hwp.utils;
 
 import java.io.EOFException;
 import java.io.IOException;

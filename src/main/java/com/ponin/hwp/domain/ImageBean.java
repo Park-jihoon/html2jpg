@@ -1,4 +1,4 @@
-package com.argo.hwp.domain;
+package com.ponin.hwp.domain;
 
 import java.io.File;
 

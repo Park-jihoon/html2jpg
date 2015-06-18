@@ -1,8 +1,8 @@
-package com.argo.hwp.application;
+package com.ponin.hwp.application;
 
 
-import com.argo.hwp.domain.ImageBean;
-import com.argo.hwp.utils.EtcUtil;
+import com.ponin.hwp.domain.ImageBean;
+import com.ponin.hwp.utils.EtcUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

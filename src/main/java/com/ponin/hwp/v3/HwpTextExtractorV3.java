@@ -21,7 +21,7 @@
  * https://github.com/cogniti/ruby-hwp/
  * https://github.com/cogniti/libghwp/
  */
-package com.argo.hwp.v3;
+package com.ponin.hwp.v3;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -32,10 +32,9 @@ import java.util.Arrays;
 import java.util.zip.Inflater;
 import java.util.zip.InflaterInputStream;
 
+import com.ponin.hwp.utils.HwpStreamReader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import com.argo.hwp.utils.HwpStreamReader;
 
 public abstract class HwpTextExtractorV3 {
 	private static Logger log = LoggerFactory

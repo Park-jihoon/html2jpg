@@ -24,7 +24,7 @@
 /*
  * 이 소스는 https://github.com/cogniti/libghwp/blob/master/src/hnc2unicode.inc 을 사용합니다.
  */
-package com.argo.hwp.v3;
+package com.ponin.hwp.v3;
 
 import java.io.BufferedReader;
 import java.io.IOException;

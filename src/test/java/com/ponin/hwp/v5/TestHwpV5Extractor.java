@@ -1,4 +1,4 @@
-package com.argo.hwp.v5;
+package com.ponin.hwp.v5;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -50,6 +50,6 @@ public class TestHwpV5Extractor {
 	@Test
 	public void testExtractText() throws IOException, ClassNotFoundException {
 //        System.out.println(extract("C://Users/Administrator/Downloads/테스트.hwp"));
-        System.out.println(extract("C://Users/Administrator/Downloads/OO 판독보고서(150527-#).hwp"));
+        System.out.println(extract("C://Users/Administrator/Downloads/test01.hwp"));
 	}
 }
